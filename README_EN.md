@@ -1,3 +1,3 @@
 # Virtual Masked Riders
-This is a minecraft mod for forge.
+This is a minecraft mod for forge. <br>
 Now I'm developing it... 
