@@ -1,3 +1,3 @@
 # Virtual Masked Riders
-This is a minecraft mod for forge. <br>
+This is a minecraft mod for forge. You can transform some masked rider by installing this mod in your Minecraft client<br>
 Now I'm developing it... 
